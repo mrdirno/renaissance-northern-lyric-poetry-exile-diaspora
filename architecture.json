@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-northern-lyric-poetry-exile-diaspora",
+  "title": "The Foundry of Decaying Meaning",
+  "tagline": "An exiled poet in a mercantile city fights to preserve memory and language against the crushing indifference of sea, sky, and ledger.",
+  "target_words": 69244,
+  "actual_words": 69244,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Artistic Creation vs. Commerce",
+    "Memory and Exile",
+    "Language as Homeland",
+    "The Indifference of Nature"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ice-Breaking Thumb",
+      "words": 5770
+    },
+    {
+      "ch": 2,
+      "title": "A Sin Against the Horizon",
+      "words": 5770
+    },
+    {
+      "ch": 3,
+      "title": "The Indifferent Sea",
+      "words": 5770
+    },
+    {
+      "ch": 4,
+      "title": "A Language of Strain",
+      "words": 5770
+    },
+    {
+      "ch": 5,
+      "title": "A Cold Tooth of a Key",
+      "words": 5770
+    },
+    {
+      "ch": 6,
+      "title": "The Cabinet’s Burning Command",
+      "words": 5770
+    },
+    {
+      "ch": 7,
+      "title": "Silence Like Congealing Oil",
+      "words": 5770
+    },
+    {
+      "ch": 8,
+      "title": "The Foundry of Decaying Meaning",
+      "words": 5770
+    },
+    {
+      "ch": 9,
+      "title": "Crawling Toward Cold Light",
+      "words": 5770
+    },
+    {
+      "ch": 10,
+      "title": "The Vellum Invitation",
+      "words": 5770
+    },
+    {
+      "ch": 11,
+      "title": "Anchored in the Unwritten",
+      "words": 5770
+    },
+    {
+      "ch": 12,
+      "title": "The Thawed Sea of Ink",
+      "words": 5770
+    }
+  ]
+}
